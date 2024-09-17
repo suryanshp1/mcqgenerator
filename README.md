@@ -1,3 +1,6 @@
+# AI MCQ Generator
+a simple application to generate mcq .
+
 Virtual env create command
 ```
 conda create -p venv python==3.9 -y
