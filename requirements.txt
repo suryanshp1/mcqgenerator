@@ -1,0 +1,6 @@
+langchain-groq
+langchain_core
+langchain
+python-dotenv
+streamlit
+PyPDF2
