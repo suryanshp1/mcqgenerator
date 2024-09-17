@@ -7,3 +7,12 @@ Activate the environment
 ```
 conda activate ./venv
 ```
+
+Install packages using command 
+```
+python setup.py install
+```
+or
+```
+pip install -r requirements.txt
+```

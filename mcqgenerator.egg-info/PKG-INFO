@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: Suraj
+Author-email: suryanshp1@gmail.com
+Requires-Dist: langchain-groq
+Requires-Dist: langchain_core
+Requires-Dist: langchain
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: PyPDF2
