@@ -23,5 +23,5 @@ pip install -r requirements.txt
 Run applicattion using command
 
 ```
-streamlir run streamlit_app.py
+streamlit run streamlit_app.py
 ```
